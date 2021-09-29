@@ -1,0 +1,4 @@
+IDDevise	Libelle	Symbole	NombreDecimale	Cours	CodeISO	Statut	DateHeureDernierEnregistrement	
+1	EURO	€	2	1	EUR	1	20200325160634360	
+2	Dol	$	0	0.85	USD	1	20210222154641887	
+3	Francs	FRF	2	6.55	FRF	1	20210222155317200	
